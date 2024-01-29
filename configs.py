@@ -24,19 +24,19 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
 │
-├🔸🤖 **My Name:** [𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭](https://t.me/{BOT_USERNAME})
+├🔸 **My Name:** [FileStore Bot](https://t.me/{BOT_USERNAME})
 │
-├🔸📝 **Language:** [𝐏𝐲𝐭𝐡𝐨𝐧𝟑](https://www.python.org)
+├🔸 **Language:** [Python 3](https://www.python.org)
 │
-├🔹📚 **Library:** [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦](https://docs.pyrogram.org)
+├🔹 **Library:** [Pyrogram](https://docs.pyrogram.org)
 │
-├🔹📡 **Hosted On:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
+├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸👨‍💻 **Developer:** [@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫](https://t.me/PredatorHackerzZ) 
+├🔸 **Developer:** [Predator HackerzZ](https://t.me/l_abani) 
 │
-├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](https://t.me/noob_film)
 │
-├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/noob_film)
 │
 ╰──────[ 😎 ]───────────⍟
 """
