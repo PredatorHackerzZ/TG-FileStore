@@ -1,4 +1,4 @@
-# (c) @PredatorHackerzZ || @TeleRoidGroup
+# (c) @noob_film || @l_abani
 
 import os
 
@@ -33,20 +33,20 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Developer:** [Predator HackerzZ](https://t.me/l_abani) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](https://t.me/noob_film)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/noob_film)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@mrnoobx](https://github.com/mrnoobx)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/DonateXrobot) or ```MrAbhi2k3@apl```
+[Donate Me](https://t.me/l_abani) or ```labani.1@paytm```
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
