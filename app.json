@@ -37,6 +37,14 @@
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
+        "SHORTLINK_URL": {
+            "description": "Shortlink Domain URL To Use it to short Links. Example: tnshort.net",
+            "required": false
+        },
+        "SHORTLINK_API": {
+            "description": "Shortlink API To Use it to short Links. Example: tnsh45ort123shor6789",
+            "required": false
+        },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
         }
