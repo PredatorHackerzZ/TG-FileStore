@@ -37,14 +37,14 @@
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
-        "OTHER_USERS_CAN_SAVE_FILE":{
-            "description": "Id of those users You want to allow to Save Files",
-        }
+        "OTHER_USERS_CAN_SAVE_FILE": {
+            "description": "Id of those users You want to allow to Save Files"
+        },
         "SHORTLINK_URL": {
-            "description": "Shortlink Domain URL To Use it to short Links. Example: tnshort.net",
+            "description": "Shortlink Domain URL To Use it to short Links. Example: tnshort.net"
         },
         "SHORTLINK_API": {
-            "description": "Shortlink API To Use it to short Links. Example: tnsh45ort123shor6789",
+            "description": "Shortlink API To Use it to short Links. Example: tnsh45ort123shor6789"
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
