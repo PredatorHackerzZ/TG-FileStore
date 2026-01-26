@@ -16,20 +16,14 @@
 
 ![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
-- `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-- `BOT_USERNAME` - You Bot Username. *(Without [@])*
-- `DB_CHANNEL` - A Telegram Channel ID.
-	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://t.me/dmcatelegram)!
-- `BOT_OWNER` - Bot Owner UserID
-	- Put your Telegram UserID for doing Broadcast.
-- `DATABASE_URL` - MongoDB Database URI
-	- This for Saving UserIDs. When you will Broadcast, bot will forward the Broadcast to DB Users.
-- `UPDATES_CHANNEL` - Force Sub Channel ID *(Optional)*
-	- ID of a Channel which you want to do Force Sub to use the bot. 
-- `LOG_CHANNEL` - Logs Channel ID
-	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
+- `API_ID` - 37699449
+- `API_HASH` - 25c010024abafd3d0066d47fe1140e24
+- `BOT_TOKEN` - 8214237046:AAHOv8XzoB6NqzbUG5h2dgs8Kw851BRfhaE
+- `BOT_USERNAME` - growth_attacker_bot
+- `DB_CHANNEL` - -1003870223151
+- `BOT_OWNER` - @Editor_93
+- `DATABASE_URL` - mongodb+srv://lichauser:Prince2807@@cluster0.1cipf8v.mongodb.net/?appName=Cluster0
+- `LOG_CHANNEL` - -1003870223151
 
 ### Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/TG-FileStore/tree/shortner)
